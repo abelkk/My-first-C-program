@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+char charcacterName [] = "Abel";
+int characterAge = 20;
+printf("Hello %s!\n", charcacterName);
+printf("congrats on turning %d \n", characterAge);
+    return 0;
+}
