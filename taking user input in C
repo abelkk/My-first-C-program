@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+int age ;
+printf("Enter Age: ");
+scanf("%d", &age);
+printf("you are %d old",age);
+return 0;
+}
