@@ -1,0 +1,17 @@
+#include <stdio.h>
+int main(){
+
+int age;
+printf("Enter your age:");
+scanf("%d",&age);
+if (age>20){
+    printf("too old get a life unc");
+}
+else
+{
+    printf("Enjoy life dude");
+}
+return 0;
+}
+
+
