@@ -1,0 +1,22 @@
+#include <stdio.h>
+int main(){
+double num;
+printf("enter double number");
+scanf("%d",&num);
+if (num>0){
+printf("Number is positive");
+}
+	else if (num<0) 
+	{printf("number is negative");
+	
+	}
+	
+	else
+	 {
+	printf("number is neutral ");
+	}
+	return 0;
+	
+	
+	
+}
